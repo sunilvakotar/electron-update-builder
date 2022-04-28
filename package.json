@@ -1,10 +1,10 @@
 {
     "name": "electronautoupdate",
     "version": "0.1.10",
-    "author": "ZaninAndrea",
+    "author": "Sunil Vakotar",
     "homepage": "./",
     "description": "An example of an autoupdating electron app",
-    "repository": "https://github.com/ZaninAndrea/electron-autoupdate-example",
+    "repository": "https://github.com/sunilvakotar/electron-update-builder",
     "main": "electron.js",
     "dependencies": {
         "electron-updater": "^2.10.1"
